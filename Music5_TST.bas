@@ -1,3 +1,9 @@
+'Music Box, by John Ross mid to late 2000s
+'Flashed onto the fast version of the Parallax Basic Stamp,
+'plays really amazing sequences, dittys, scales depending on how all pots/sliders are arranged
+
+'file extension must be changed to .bsx depending on what version of basic stamp is used
+
 ' {$STAMP BS2sx}
 'music5: music box that went to Henze
 
