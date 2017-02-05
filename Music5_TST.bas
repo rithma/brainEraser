@@ -1,31 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @rithma
-
-1
-0
-
-    0
-
-rithma/brainEraser
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Pulse
-Graphs
-Settings
-brainEraser/Music5_TST.bsx
-c564b5b a minute ago
-@rithma rithma Create Music5_TST.bsx
-691 lines (503 sloc) 16.9 KB
 ' {$STAMP BS2sx}
 'music5: music box that went to Henze
 
@@ -716,8 +688,3 @@ return
 
 
 '__________________________________________________________________________
-
-    Contact GitHub API Training Shop Blog About 
-
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
-
